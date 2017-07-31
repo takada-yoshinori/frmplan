@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="育成計画" max_length="40" name="x_141494_frmplan_frmplan" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="メモ・備考" max_length="40" name="u_comment" type="string"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="所属選択" max_length="1024" name="u_deptmane" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" label="所属" max_length="40" name="u_deptname_s" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="編集者" max_length="40" name="u_editusers" type="string"/>
+        <element dependent="u_field_name_6" dependent_on_field="u_field_name_6" label="New Field Name" max_length="80" name="u_field_name_6" type="field_name" use_dependent_field="true"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="育成担当者選択" max_length="1024" name="u_instructor" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" label="社員番号" max_length="40" name="u_instructorempid" type="string"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="育成担当者" max_length="1024" name="u_instructorname" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" label="育成担当者" max_length="40" name="u_instructorname1" type="string"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="所属長選択" max_length="1024" name="u_manager" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" label="社員番号" max_length="40" name="u_managerempid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="所属長" max_length="40" name="u_managername" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="添付ファイル" label="育成計画表" max_length="40" name="u_plan" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="コメント" max_length="40" name="u_q1incomment" type="string"/>
+        <element label="完了日" max_length="40" name="u_q1infinishdate" type="glide_date"/>
+        <element label="完了" max_length="40" name="u_q1infinishflag" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="氏名" max_length="40" name="u_q1inname" type="string"/>
+        <element label="完了日" max_length="40" name="u_q1mnfinishdate" type="glide_date"/>
+        <element attributes="base_start=true" label="完了" max_length="80" name="u_q1mnfinishflag" type="table_name"/>
+        <element label="完了" max_length="40" name="u_q1mnfinishflag1" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="氏名" max_length="40" name="u_q1mnname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="コメント" max_length="40" name="u_q1trcomment" type="string"/>
+        <element label="完了日" max_length="40" name="u_q1trfinishdate" type="glide_date"/>
+        <element label="完了" max_length="40" name="u_q1trfinishflag" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="氏名" max_length="40" name="u_q1trname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="コメント" max_length="40" name="u_q2incomment" type="string"/>
+        <element label="完了日" max_length="40" name="u_q2infinishdate" type="glide_date"/>
+        <element label="完了" max_length="40" name="u_q2infinishflag" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="氏名" max_length="40" name="u_q2inname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="コメント" max_length="40" name="u_q2mncomment" type="string"/>
+        <element label="完了日" max_length="40" name="u_q2mnfinishdate" type="glide_date"/>
+        <element label="完了" max_length="40" name="u_q2mnfinishflag" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="氏名" max_length="40" name="u_q2mnname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="コメント" max_length="40" name="u_q2trcomment" type="string"/>
+        <element label="完了日" max_length="40" name="u_q2trfinishdate" type="glide_date"/>
+        <element label="完了" max_length="40" name="u_q2trfinishflag" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="氏名" max_length="40" name="u_q2trname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="コメント" max_length="40" name="u_q3incomment" type="string"/>
+        <element label="完了日" max_length="40" name="u_q3infinishdate" type="glide_date"/>
+        <element label="完了" max_length="40" name="u_q3infinishflag" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="氏名" max_length="40" name="u_q3inname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="コメント" max_length="40" name="u_q3mncomment" type="string"/>
+        <element label="完了日" max_length="40" name="u_q3mnfinishdate" type="glide_date"/>
+        <element label="完了" max_length="40" name="u_q3mnfinishflag" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="氏名" max_length="40" name="u_q3mnname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="コメント" max_length="40" name="u_q3trcomment" type="string"/>
+        <element label="完了日" max_length="40" name="u_q3trfinishdate" type="glide_date"/>
+        <element label="完了" max_length="40" name="u_q3trfinishflag" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="氏名" max_length="40" name="u_q3trname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="コメント" max_length="40" name="u_q4incomment" type="string"/>
+        <element label="完了日" max_length="40" name="u_q4infinishdate" type="glide_date"/>
+        <element label="完了" max_length="40" name="u_q4infinishflag" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="氏名" max_length="40" name="u_q4inname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="コメント" max_length="40" name="u_q4mncomment" type="string"/>
+        <element label="完了日" max_length="40" name="u_q4mnfinishdate" type="glide_date"/>
+        <element label="完了" max_length="40" name="u_q4mnfinishflag" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="氏名" max_length="40" name="u_q4mnname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="コメント" max_length="40" name="u_q4trcomment" type="string"/>
+        <element label="完了日" max_length="40" name="u_q4trfinishdate" type="glide_date"/>
+        <element label="完了" max_length="40" name="u_q4trfinishflag" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="氏名" max_length="40" name="u_q4trname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="参照者" max_length="40" name="u_readusers" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="コメント" max_length="40" name="u_string_26" type="string"/>
+        <element attributes="base_start=true" default="cmdb_fixup" label="New Table Name" max_length="80" name="u_table_name_7" type="table_name"/>
+        <element attributes="edge_encryption_enabled=true" label="社員番号" max_length="40" name="u_traineeempid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="氏名" max_length="40" name="u_traineename" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="１年目" label="年次" max_length="40" name="u_traineeyear" type="string">
+            <choice>
+                <element label="１年目" sequence="0" value="１年目"/>
+                <element label="２年目" sequence="1" value="２年目"/>
+                <element label="３年目" sequence="2" value="３年目"/>
+                <element label="その他" sequence="3" value="その他"/>
+            </choice>
+        </element>
+    </element>
+</database>
