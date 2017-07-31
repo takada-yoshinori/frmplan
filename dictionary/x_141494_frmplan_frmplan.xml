@@ -18,6 +18,7 @@
         <element label="完了日" max_length="40" name="u_q1infinishdate" type="glide_date"/>
         <element label="完了" max_length="40" name="u_q1infinishflag" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="氏名" max_length="40" name="u_q1inname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="コメント" max_length="40" name="u_q1mncomment" type="string"/>
         <element label="完了日" max_length="40" name="u_q1mnfinishdate" type="glide_date"/>
         <element attributes="base_start=true" label="完了" max_length="80" name="u_q1mnfinishflag" type="table_name"/>
         <element label="完了" max_length="40" name="u_q1mnfinishflag1" type="boolean"/>
