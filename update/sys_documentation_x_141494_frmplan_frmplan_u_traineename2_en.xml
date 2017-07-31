@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="u_instructorname1" label="" language="en" table="x_141494_frmplan_frmplan">
+    <sys_documentation element="u_traineename2" label="育成対象者" language="en" table="x_141494_frmplan_frmplan">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>u_instructorname1</element>
+            <element>u_traineename2</element>
             <help/>
             <hint/>
-            <label/>
+            <label>育成対象者</label>
             <language>en</language>
             <name>x_141494_frmplan_frmplan</name>
-            <plural>育成担当者s</plural>
+            <plural>育成対象者s</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-28 01:30:02</sys_created_on>
-            <sys_id>be3cff180fd4030017d906ace1050e4b</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_name>x_141494_frmplan_frmplan</sys_name>
+            <sys_created_on>2017-07-31 06:42:21</sys_created_on>
+            <sys_id>cb7068e10f90030017d906ace1050e1a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>育成対象者</sys_name>
             <sys_package display_value="frmPlan" source="x_141494_frmplan">b199f7000f10030017d906ace1050e80</sys_package>
             <sys_policy/>
             <sys_scope display_value="frmPlan">b199f7000f10030017d906ace1050e80</sys_scope>
-            <sys_update_name>sys_documentation_x_141494_frmplan_frmplan_u_instructorname1_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_141494_frmplan_frmplan_u_traineename2_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 06:08:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:42:21</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

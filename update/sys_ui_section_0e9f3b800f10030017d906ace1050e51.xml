@@ -4,58 +4,58 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>558667110f50030017d906ace1050e6f</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>bbd0eca50f90030017d906ace1050e2f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <text>基本情報</text>
             <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>598667110f50030017d906ace1050e6f</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>bfd0eca50f90030017d906ace1050e2f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <text>育成計画</text>
             <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>5d8667110f50030017d906ace1050e6f</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>b3d0eca50f90030017d906ace1050e30</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <text>更新履歴</text>
             <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>518667110f50030017d906ace1050e70</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>b7d0eca50f90030017d906ace1050e30</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <text>コメント</text>
             <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
         </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>558667110f50030017d906ace1050e6f</element>
+            <element>bbd0eca50f90030017d906ace1050e2f</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>158667110f50030017d906ace1050e70</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>7bd0eca50f90030017d906ace1050e30</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -63,419 +63,377 @@
             <element>.begin_split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>958667110f50030017d906ace1050e70</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>fbd0eca50f90030017d906ace1050e30</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_deptmane</element>
+            <element>u_traineename2</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>198667110f50030017d906ace1050e70</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>7fd0eca50f90030017d906ace1050e30</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_traineeempid</element>
+            <element>u_deptname_s</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>998667110f50030017d906ace1050e70</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>ffd0eca50f90030017d906ace1050e30</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>73d0eca50f90030017d906ace1050e31</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_traineeempid</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>f3d0eca50f90030017d906ace1050e31</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_traineeyear</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>1d8667110f50030017d906ace1050e70</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>9d8667110f50030017d906ace1050e70</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_deptname_s</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>118667110f50030017d906ace1050e71</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>77d0eca50f90030017d906ace1050e31</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_traineename</element>
-            <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>918667110f50030017d906ace1050e71</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>8</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>158667110f50030017d906ace1050e71</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>f7d0eca50f90030017d906ace1050e31</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
-            <position>9</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>958667110f50030017d906ace1050e71</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>7bd0eca50f90030017d906ace1050e31</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_manager</element>
-            <position>10</position>
+            <element>u_managername1</element>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>198667110f50030017d906ace1050e71</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>fbd0eca50f90030017d906ace1050e31</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>7fd0eca50f90030017d906ace1050e31</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_managerempid</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>998667110f50030017d906ace1050e71</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>ffd0eca50f90030017d906ace1050e31</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>12</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>1d8667110f50030017d906ace1050e71</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_managername</element>
-            <position>13</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>9d8667110f50030017d906ace1050e71</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>14</position>
+            <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>118667110f50030017d906ace1050e72</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>73d0eca50f90030017d906ace1050e32</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
-            <position>15</position>
+            <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>918667110f50030017d906ace1050e72</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>f3d0eca50f90030017d906ace1050e32</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_instructor</element>
-            <position>16</position>
+            <element>u_instructorname2</element>
+            <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>158667110f50030017d906ace1050e72</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>77d0eca50f90030017d906ace1050e32</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_instructorempid</element>
-            <position>17</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>958667110f50030017d906ace1050e72</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>18</position>
+            <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>198667110f50030017d906ace1050e72</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>f7d0eca50f90030017d906ace1050e32</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_instructorname1</element>
-            <position>19</position>
+            <element>u_instructorempid</element>
+            <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>998667110f50030017d906ace1050e72</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>7bd0eca50f90030017d906ace1050e32</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>20</position>
+            <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>1d8667110f50030017d906ace1050e72</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>fbd0eca50f90030017d906ace1050e32</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
-            <position>21</position>
+            <position>18</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>9d8667110f50030017d906ace1050e72</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>7fd0eca50f90030017d906ace1050e32</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_readusers</element>
-            <position>22</position>
+            <position>19</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>118667110f50030017d906ace1050e73</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>ffd0eca50f90030017d906ace1050e32</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>23</position>
+            <position>20</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>918667110f50030017d906ace1050e73</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>73d0eca50f90030017d906ace1050e33</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_editusers</element>
-            <position>24</position>
+            <position>21</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>158667110f50030017d906ace1050e73</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>f3d0eca50f90030017d906ace1050e33</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>25</position>
+            <position>22</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>958667110f50030017d906ace1050e73</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>77d0eca50f90030017d906ace1050e33</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>598667110f50030017d906ace1050e6f</element>
-            <position>26</position>
+            <element>bfd0eca50f90030017d906ace1050e2f</element>
+            <position>23</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>198667110f50030017d906ace1050e73</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>f7d0eca50f90030017d906ace1050e33</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_plan</element>
-            <position>27</position>
+            <position>24</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>998667110f50030017d906ace1050e73</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>7bd0eca50f90030017d906ace1050e33</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_comment</element>
-            <position>28</position>
+            <position>25</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>1d8667110f50030017d906ace1050e73</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>fbd0eca50f90030017d906ace1050e33</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>5d8667110f50030017d906ace1050e6f</element>
-            <position>29</position>
+            <element>b3d0eca50f90030017d906ace1050e30</element>
+            <position>26</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>9d8667110f50030017d906ace1050e73</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>7fd0eca50f90030017d906ace1050e33</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>518667110f50030017d906ace1050e70</element>
-            <position>30</position>
+            <element>b7d0eca50f90030017d906ace1050e30</element>
+            <position>27</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-31 02:29:06</sys_created_on>
-            <sys_id>118667110f50030017d906ace1050e74</sys_id>
+            <sys_created_on>2017-07-31 06:44:02</sys_created_on>
+            <sys_id>ffd0eca50f90030017d906ace1050e33</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_frmplan_frmplan" sys_domain="global" view="Default view">0e9f3b800f10030017d906ace1050e51</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-31 02:29:06</sys_updated_on>
+            <sys_updated_on>2017-07-31 06:44:02</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>

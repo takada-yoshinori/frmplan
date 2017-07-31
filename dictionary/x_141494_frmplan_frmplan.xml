@@ -8,11 +8,13 @@
         <element dependent="u_field_name_6" dependent_on_field="u_field_name_6" label="New Field Name" max_length="80" name="u_field_name_6" type="field_name" use_dependent_field="true"/>
         <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="育成担当者選択" max_length="1024" name="u_instructor" type="glide_list"/>
         <element attributes="edge_encryption_enabled=true" label="社員番号" max_length="40" name="u_instructorempid" type="string"/>
-        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="育成担当者" max_length="1024" name="u_instructorname" type="glide_list"/>
-        <element attributes="edge_encryption_enabled=true" label="育成担当者" max_length="40" name="u_instructorname1" type="string"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" dependent="assignment_group" dependent_on_field="assignment_group" label="育成担当者" max_length="1024" name="u_instructorname" reference="sys_user" type="glide_list" use_dependent_field="true"/>
+        <element attributes="edge_encryption_enabled=true" dependent="assignment_group" dependent_on_field="assignment_group" label="育成担当者" max_length="40" name="u_instructorname1" reference="sys_user" type="string" use_dependent_field="true"/>
+        <element dependent="assignment_group" dependent_on_field="assignment_group" label="育成担当者" max_length="32" name="u_instructorname2" reference="sys_user" type="reference" use_dependent_field="true"/>
         <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="所属長選択" max_length="1024" name="u_manager" type="glide_list"/>
         <element attributes="edge_encryption_enabled=true" label="社員番号" max_length="40" name="u_managerempid" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="所属長" max_length="40" name="u_managername" type="string"/>
+        <element dependent="assignment_group" dependent_on_field="assignment_group" label="所属長" max_length="32" name="u_managername1" reference="sys_user" type="reference" use_dependent_field="true"/>
         <element attributes="edge_encryption_enabled=true" default="添付ファイル" label="育成計画表" max_length="40" name="u_plan" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="コメント" max_length="40" name="u_q1incomment" type="string"/>
         <element label="完了日" max_length="40" name="u_q1infinishdate" type="glide_date"/>
@@ -64,10 +66,12 @@
         <element label="完了" max_length="40" name="u_q4trfinishflag" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="氏名" max_length="40" name="u_q4trname" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="参照者" max_length="40" name="u_readusers" type="string"/>
+        <element dependent="assignment_group" dependent_on_field="assignment_group" label="New Reference" max_length="32" name="u_reference_1" reference="sys_user" type="reference" use_dependent_field="true"/>
         <element attributes="edge_encryption_enabled=true" label="コメント" max_length="40" name="u_string_26" type="string"/>
         <element attributes="base_start=true" default="cmdb_fixup" label="New Table Name" max_length="80" name="u_table_name_7" type="table_name"/>
         <element attributes="edge_encryption_enabled=true" label="社員番号" max_length="40" name="u_traineeempid" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="氏名" max_length="40" name="u_traineename" type="string"/>
+        <element dependent="assignment_group" dependent_on_field="assignment_group" label="育成対象者" max_length="32" name="u_traineename2" reference="sys_user" type="reference" use_dependent_field="true"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="１年目" label="年次" max_length="40" name="u_traineeyear" type="string">
             <choice>
                 <element label="１年目" sequence="0" value="１年目"/>
