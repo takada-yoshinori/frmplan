@@ -72,7 +72,7 @@
         <element attributes="edge_encryption_enabled=true" label="氏名" max_length="40" name="u_q4trname" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="参照者" max_length="40" name="u_readusers" type="string"/>
         <element dependent="assignment_group" dependent_on_field="assignment_group" label="New Reference" max_length="32" name="u_reference_1" reference="sys_user" type="reference" use_dependent_field="true"/>
-        <element attributes="edge_encryption_enabled=true" default="&quot;完了STSなし&quot;" label="ステータス" max_length="20" name="u_status" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ステータス" max_length="20" name="u_status" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="コメント" max_length="40" name="u_string_26" type="string"/>
         <element attributes="base_start=true" default="cmdb_fixup" label="New Table Name" max_length="80" name="u_table_name_7" type="table_name"/>
         <element attributes="edge_encryption_enabled=true" label="社員番号" max_length="40" name="u_traineeempid" type="string"/>
