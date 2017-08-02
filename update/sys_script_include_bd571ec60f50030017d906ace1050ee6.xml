@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_141494_frmplan.GetEmployeeNumber</api_name>
+        <client_callable>true</client_callable>
+        <description>社員番号を返すＳＣＲＩＰＴ</description>
+        <name>GetEmployeeNumber</name>
+        <script><![CDATA[var GetEmployeeNumber = Class.create();
+GetEmployeeNumber.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+	
+	funcGetEmployeeNumber: function() {
+	var userRecord = new GlideRecord('sys_user') ;
+	userRecoｒd.get(this.getParameter('sysparm_userID')) ;
+	return userRecord.employee_number + '' ;
+	},
+    type: 'GetEmployeeNumber'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-02 04:56:56</sys_created_on>
+        <sys_id>bd571ec60f50030017d906ace1050ee6</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>GetEmployeeNumber</sys_name>
+        <sys_package display_value="frmPlan" source="x_141494_frmplan">b199f7000f10030017d906ace1050e80</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="frmPlan">b199f7000f10030017d906ace1050e80</sys_scope>
+        <sys_update_name>sys_script_include_bd571ec60f50030017d906ace1050ee6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-02 05:46:20</sys_updated_on>
+    </sys_script_include>
+</record_update>
