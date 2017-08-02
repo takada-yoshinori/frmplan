@@ -20,6 +20,7 @@
         <element attributes="edge_encryption_enabled=true" label="社員番号" max_length="40" name="u_managerempid" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="所属長" max_length="40" name="u_managername" type="string"/>
         <element dependent="assignment_group" dependent_on_field="assignment_group" label="所属長" max_length="32" name="u_managername1" reference="sys_user" type="reference" use_dependent_field="true"/>
+        <element label="対象外（退職・休職等）" max_length="40" name="u_naflag" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" default="添付ファイル" label="育成計画表" max_length="40" name="u_plan" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="コメント" max_length="40" name="u_q1incomment" type="string"/>
         <element label="完了日" max_length="40" name="u_q1infinishdate" type="glide_date"/>
