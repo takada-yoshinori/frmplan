@@ -5,6 +5,82 @@
             <dependent_value/>
             <element>u_traineeyear</element>
             <hint/>
+            <inactive>true</inactive>
+            <label>-TBDVALUE-</label>
+            <language>en</language>
+            <name>x_141494_frmplan_frmplan</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-03 05:39:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>16ee6f520f58030017d906ace1050e73</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-03 05:48:56</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_traineeyear</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>aaaa</label>
+            <language>en</language>
+            <name>x_141494_frmplan_frmplan</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-03 07:05:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>029204aa0f58030017d906ace1050e20</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-03 07:06:22</sys_updated_on>
+            <value>aaaa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_traineeyear</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>　　　</label>
+            <language>en</language>
+            <name>x_141494_frmplan_frmplan</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-03 05:13:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a509af9e0f18030017d906ace1050eba</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-03 05:37:55</sys_updated_on>
+            <value>　　　</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_traineeyear</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>　　　　　</label>
+            <language>en</language>
+            <name>x_141494_frmplan_frmplan</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-03 07:36:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3a89c46e0f58030017d906ace1050e53</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-04 00:51:47</sys_updated_on>
+            <value>　　　　　　　　</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_traineeyear</element>
+            <hint/>
             <inactive>false</inactive>
             <label>１年目</label>
             <language>en</language>
@@ -15,9 +91,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>79adc8940f90030017d906ace1050e8d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-27 08:07:40</sys_updated_on>
+            <sys_updated_on>2017-08-03 07:23:47</sys_updated_on>
             <value>１年目</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -34,9 +110,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>f5adc8940f90030017d906ace1050e8f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-27 08:07:40</sys_updated_on>
+            <sys_updated_on>2017-08-03 07:23:47</sys_updated_on>
             <value>２年目</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -53,9 +129,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>31adc8940f90030017d906ace1050e91</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-27 08:07:40</sys_updated_on>
+            <sys_updated_on>2017-08-03 07:23:47</sys_updated_on>
             <value>３年目</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -72,9 +148,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>79adc8940f90030017d906ace1050e92</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-27 08:07:40</sys_updated_on>
+            <sys_updated_on>2017-08-03 07:23:47</sys_updated_on>
             <value>その他</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
